@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@metamask/eth-sig-util": "^5.0.0"
+  }
+}
